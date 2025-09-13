@@ -1,16 +1,24 @@
-# my_portfolio
+# Flutter Portfolio
 
-A new Flutter project.
+A responsive personal portfolio website built with **Flutter Web**.
 
-## Getting Started
+## Features
+- About Me section with intro & background
+- Projects section with live demos & GitHub links
+- Skills showcase
+- Contact form / contact details
+- Responsive UI (works on desktop & mobile)
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- Flutter (Web)
+- Dart
+- Render (for deployment)
 
-A few resources to get you started if this is your first Flutter project:
+## Projects Included
+- **BarterDB**: A barter marketplace with role-based flows & verification  
+- **Unity Game**: Main UI and a playable game with user interaction   
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Contact
+- [LinkedIn](https://linkedin.com/in/shruti-debnath)  
+- [GitHub](https://github.com/shruti-246)  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
