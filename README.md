@@ -19,6 +19,6 @@ A responsive personal portfolio website built with **Flutter Web**.
 - **Unity Game**: Main UI and a playable game with user interaction   
 
 ## Contact
-- [LinkedIn](https://linkedin.com/in/shruti-debnath)  
+- [LinkedIn]([https://linkedin.com/in/shruti-debnath](https://www.linkedin.com/in/shrutidebnath224/))  
 - [GitHub](https://github.com/shruti-246)  
 
